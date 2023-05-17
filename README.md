@@ -3,16 +3,16 @@
   <img src="https://raw.githubusercontent.com/micaellimedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Willian-Louback">
 
   <p align="left"> 
-    Olá, meu nome é Willian Louback, tenho 18 anos e estou cursando <strong>Técnico em Informática</strong>.<br>
-    No momento estou aprimorando as minhas habilidades.
+    Olá! Meu nome é Willian Louback e sou um entusiasta da tecnologia. Completando 18 anos de idade, já concluí o curso técnico em informática, onde adquiri um sólido conhecimento em diversas áreas.
   </p>
 
   <p align="left">
-    🛰️ Linguagens: <strong>JavaScript, C#.</strong>
+    🛰️ Linguagens: Minhas principais linguagens de programação são <strong>JavaScript</strong> e <strong>C#</strong>. Tenho experiência com Node.js, HTML e CSS, além de ter utilizado frameworks como Express e Bootstrap para o desenvolvimento de projetos.
   </p>
 
   <p align="left">
-    🛠️ Ferramentas: <strong>Vs Code, Visual Studio, Xamarin, Unity, Docker.</strong>
+    🛠️ Ferramentas: Sou versátil no uso de ferramentas como o <strong>
+Visual Studio, Visual Studio Code e Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também tenho experiência com Xamarin, Unity e Docker, ampliando meu leque de habilidades e possibilidades.Também utilizo o Windows Subsystem for Linux (WSL) para criar um ambiente de desenvolvimento mais completo e flexível.
   </p>
 
   <p align="left">
