@@ -7,12 +7,16 @@
   </p>
 
   <p align="left">
-    🛰️ Linguagens: Minhas principais linguagens de programação são <strong>JavaScript</strong> e <strong>C#</strong>. Tenho experiência com Node.js, HTML e CSS, além de ter utilizado frameworks como Express e Bootstrap para o desenvolvimento de projetos.
+    🛰️ Linguagens: Aprendi bastante sobre <strong>JavaScript, Node.js, HTML e CSS</strong>, aprimorando minhas habilidades de programação. Também tenho experiência em <strong>C#</strong>.
   </p>
 
   <p align="left">
     🛠️ Ferramentas: Sou versátil no uso de ferramentas como o <strong>
-Visual Studio, Visual Studio Code e Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também tenho experiência com Xamarin, Unity e Docker, ampliando meu leque de habilidades e possibilidades.Também utilizo o Windows Subsystem for Linux (WSL) para criar um ambiente de desenvolvimento mais completo e flexível.
+Visual Studio, Visual Studio Code e Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também tenho experiência com Xamarin, Unity e Docker, ampliando meu leque de habilidades e possibilidades. Também utilizo o Windows Subsystem for Linux (WSL) para criar um ambiente de desenvolvimento mais completo e flexível.
+  </p>
+  
+  <p>
+    Tenho familiaridade com frameworks como Express e Bootstrap, que utilizo para criar aplicações web. Além disso, tenho conhecimento em bancos de dados, com experiência especialmente no MongoDB.
   </p>
 
   <p align="left">
