@@ -12,11 +12,11 @@
 
   <p align="left">
     🛠️ Ferramentas: Sou versátil no uso de ferramentas como o <strong>
-Visual Studio, Visual Studio Code e Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também utilizo o Windows Subsystem for Linux (WSL) para criar um ambiente de desenvolvimento mais completo e flexível. Vale citar que tenho uma boa experiência com Xamarin, Unity, React e Docker, ampliando meu leque de habilidades e possibilidades.
+Visual Studio</strong>, <strong>Visual Studio Code</strong> e <strong>Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também utilizo o <strong>Windows Subsystem for Linux (WSL)</strong> para criar um ambiente de desenvolvimento mais completo e flexível. Vale citar que tenho uma boa experiência com <strong>Xamarin</strong>, <strong>Unity</strong>, <strong>React</strong> e <strong>Docker</strong>, ampliando meu leque de habilidades e possibilidades.
   </p>
   
   <p>
-    Tenho familiaridade com frameworks como Express e Bootstrap, que utilizo para criar aplicações web. Além disso, tenho conhecimento em bancos de dados, com experiência especialmente no MongoDB.
+    Tenho familiaridade com frameworks como <strong>Express</strong> e <strong>Bootstrap</strong>, que utilizo para criar aplicações web. Além disso, tenho conhecimento em bancos de dados, com experiência especialmente no <strong>MongoDB</strong>.
   </p>
 
   <p align="left">
