@@ -12,7 +12,7 @@
 
   <p align="left">
     🛠️ Ferramentas: Sou versátil no uso de ferramentas como o <strong>
-Visual Studio</strong>, <strong>Visual Studio Code</strong>, <strong>Docker</strong> e <strong>Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também utilizo o <strong>Windows Subsystem for Linux (WSL)</strong> para criar um ambiente de desenvolvimento mais completo e flexível. Vale citar que tenho uma boa experiência com <strong>Xamarin</strong>, <strong>Unity</strong> e <strong>React</strong>, ampliando meu leque de habilidades e possibilidades.
+Visual Studio</strong>, <strong>Visual Studio Code</strong>, <strong>Docker</strong> e <strong>Git/GitHub</strong>, que fazem parte do meu fluxo de trabalho no desenvolvimento de aplicações. Também utilizo o <strong>Windows Subsystem for Linux (WSL)</strong> para criar um ambiente de desenvolvimento mais completo e flexível. Vale citar que tenho uma boa experiência com <strong>Unity</strong> e <strong>React</strong>, ampliando meu leque de habilidades e possibilidades.
   </p>
   
   <p>
