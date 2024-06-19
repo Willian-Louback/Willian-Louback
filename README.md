@@ -18,19 +18,7 @@ Visual Studio</strong>, <strong>Visual Studio Code</strong>, <strong>Docker</str
   <p>
     Tenho familiaridade com frameworks como <strong>Express</strong> e <strong>Bootstrap</strong>, que utilizo para criar aplicações web. Além disso, tenho conhecimento em bancos de dados, com experiência especialmente no <strong>MongoDB</strong>.
   </p>
-
-  <p align="left">
-    📧 Entre em contato comigo! ⤵️
-  </p>
-
-  <p align="left">
-    <a href="https://twitter.com/WillianLouback_" alt="Twitter" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/williandlouback/" alt="Instagram" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-  </p>  
+  
 </header><br></br>
 <div align="center">
   <h2 style='color: #c4b5fd' align='center'>Statistics</h2>
