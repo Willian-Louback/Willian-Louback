@@ -20,7 +20,7 @@ Visual Studio</strong>, <strong>Visual Studio Code</strong>, <strong>Docker</str
   </p>
   
 </header><br></br>
-<div align="center">
+<!-- <div align="center">
   <h2 style='color: #c4b5fd' align='center'>Statistics</h2>
   <a href="https://github.com/Willian-Louback/Willian-Louback/">
     <picture>
@@ -32,7 +32,7 @@ Visual Studio</strong>, <strong>Visual Studio Code</strong>, <strong>Docker</str
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Willian-Louback&show_icons=true&theme=tokyonight&text_bold=false&count_private=true"/>
     </picture>
   </a>  
-</div>  
+</div>   -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willian-Louback/Willian-Louback/output/github-contribution-grid-snake-dark.svg" />
